@@ -1,11 +1,14 @@
 
-Projeto de Microserviços com Java e Spring
+**Projeto de Microserviços com Java e Spring**
+
 Este repositório contém um projeto de microserviços desenvolvido durante o curso da Alura, focado em Java 17 e Spring. O projeto utiliza tecnologias como MySQL, Spring Data JPA, Lombok e Flyway Migration.
 
-Visão Geral
+**Visão Geral**
+
 O objetivo principal deste projeto é exemplificar a arquitetura de microserviços, proporcionando uma base sólida para o desenvolvimento, integração e escalabilidade de serviços independentes.
 
-Tecnologias Utilizadas
+**Tecnologias Utilizadas**
+
 Java 17: A linguagem de programação principal utilizada no projeto, proporcionando recursos modernos e eficientes.
 
 MySQL: Banco de dados relacional utilizado para armazenar dados persistentes.
@@ -16,7 +19,8 @@ Lombok: Ferramenta para automação de código em Java, reduzindo a verbosidade 
 
 Flyway Migration: Utilizado para versionamento e migração de banco de dados, mantendo a consistência entre diferentes ambientes.
 
-Estrutura do Projeto
+**Estrutura do Projeto**
+
 O projeto é organizado em módulos, cada um representando um microserviço específico. Os principais módulos incluem:
 
 Módulo de Cliente: Responsável pelo gerenciamento de clientes.
@@ -27,15 +31,8 @@ Módulo de Pagamento: Lida com o processamento de pagamentos relacionados aos pe
 
 Módulo de Autenticação e Autorização: Gerencia a segurança e autenticação dos usuários.
 
-Iniciando o Projeto
+**Iniciando o Projeto**
 Certifique-se de ter o Java 17 instalado em sua máquina antes de começar. Além disso, ajuste as configurações do banco de dados no arquivo application.properties de cada módulo conforme necessário.
 
-Clone este repositório:
-
-bash
-Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Navegue até o diretório do módulo desejado:
-
-Contribuindo
+**Contribuindo**
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos recursos. Abra uma issue para discussão antes de enviar um pull request.
